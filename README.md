@@ -5,6 +5,7 @@ Simple Arduino projects exploring some concept.
 ## Featured Projects
 
 - [Traffic Lights](/traffic_lights/)
+- [Color Composition](/color_composition/)
 
 ## Tinkercad
 
