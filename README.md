@@ -6,6 +6,7 @@ Simple Arduino projects exploring some concept.
 
 - [Traffic Lights](/traffic_lights/)
 - [Color Composition](/color_composition/)
+- [RGB Mixer](/rgb_mixer/)
 
 ## Tinkercad
 
