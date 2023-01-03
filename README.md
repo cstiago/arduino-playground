@@ -2,6 +2,10 @@
 
 Simple Arduino projects exploring some concept.
 
+## Featured Projects
+
+- [Traffic Lights](/traffic_lights/)
+
 ## Tinkercad
 
 [Tinkercad](https://www.tinkercad.com/) is an online platform used to build Arduino simulations.
