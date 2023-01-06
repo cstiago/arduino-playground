@@ -7,6 +7,7 @@ Simple Arduino projects exploring some concept.
 - [Traffic Lights](/traffic-lights/)
 - [Color Composition](/color-composition/)
 - [RGB Mixer](/rgb-mixer/)
+- [Buzzer Piano](/buzzer-piano/)
 
 ## Tinkercad
 
