@@ -2,7 +2,7 @@
 
 It simulates traffic lights behavior using LEDs in their respective colors.
 
-<img src="CircuitView.png" alt="Traffic Lights Circuit View" width="800">
+<img src="circuit-view.png" alt="Traffic Lights Circuit View" width="800">
 
 > ## Version A
 >
